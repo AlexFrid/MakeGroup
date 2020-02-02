@@ -10,7 +10,7 @@ from networkx.algorithms import community
 def makegroups(df):
     """
     Replicates the functionality of the make group tool in Alteryx
-    Exepects a pandas dataframe ("df") with two columns.
+    Expects a pandas dataframe ("df") with two columns.
     """
     try:
         # Renames df columns
