@@ -1,0 +1,26 @@
+[
+    {
+        "key_A": "Luke",
+        "key_B": "Obi"
+    },
+    {
+        "key_A": "Jabba",
+        "key_B": "Boba"
+    },
+    {
+        "key_A": "Han",
+        "key_B": "Chewy"
+    },
+    {
+        "key_A": "Han",
+        "key_B": "Lando"
+    },
+    {
+        "key_A": "Luke",
+        "key_B": "Han"
+    },
+    {
+        "key_A": "Boba",
+        "key_B": "Jango"
+    }
+]
