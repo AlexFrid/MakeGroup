@@ -1,4 +1,4 @@
-"""Replicates the make groups tool in Alteryx"""
+"""Replicates the make group tool in Alteryx"""
 
 # Import necessary modules
 import networkx as nx
@@ -9,7 +9,7 @@ from networkx.algorithms import community
 
 def makegroups(df):
     """
-    Replicates the functionality of the make groups tool in Alteryx
+    Replicates the functionality of the make group tool in Alteryx
     Exepects a pandas dataframe ("df") with two columns.
     """
     try:

@@ -1,6 +1,6 @@
-# Converting the Make group tool in Alteryx to a Python function
+# Converting the make group tool in Alteryx to a Python function
 
-This function replicates the functionality of the make groups tool in Alteryx.
+This function replicates the functionality of the make group tool in Alteryx.
 
 I've written a blog post about this here:
 
