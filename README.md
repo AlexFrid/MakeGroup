@@ -4,4 +4,4 @@ This function replicates the functionality of the make group tool in Alteryx.
 
 I've written a blog post about this here:
 
-https://datastorydesign.com/Converting-an-Alteryx-tool-into-a-Python-function
+https://datastorydesign.com/alteryx/python/2020/02/01/alteryx-to-python.html
